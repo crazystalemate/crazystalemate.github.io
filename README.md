@@ -1,2 +1,2 @@
-# test.github.io
+# crazystalemate.github.io
 первый хостинг
